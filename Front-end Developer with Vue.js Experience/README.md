@@ -1,7 +1,7 @@
 Project "Vuekemon"
 ===
 
-В этом документе вы найдете тестовое задание на вакансию [Front-end Developer with Vue Experience](https://djinni.co/jobs/32416-front-end-developer-with-vue-experience/)
+В этом документе вы найдете тестовое задание на вакансию [Front-end Developer with Vue.js Experience](https://djinni.co/jobs/32416-front-end-developer-with-vue-experience/)
 
 Цель
 ---
